@@ -2,6 +2,9 @@
 
 A to-do list app.
 
+### Demo Video
+https://www.youtube.com/watch?v=JKJAb-wlc0k&list=PLmukEUT1dalh2QG-IDQ3kUcoX7QxFy7cU&index=2
+
 ## Functionalities
 
 - Users can create tasks in their to-do list.
